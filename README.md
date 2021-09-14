@@ -6,7 +6,8 @@
 
 ``` bash
 # install dependencies
-1tnpm install
+left
+tnpm install
 
 # serve with hot reload at localhost:8080
 npm run dev
